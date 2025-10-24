@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+sentence-transformers>=2.2.2
+faiss-cpu
+transformers
+torch
+python-dotenv
+pdfplumber
+tqdm
+openai
+requests
+pydantic
+python-dotenv
+httpx
+
