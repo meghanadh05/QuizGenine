@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+indices/
+data/chunks.json
+*.pyc
+.env
+.vscode/
