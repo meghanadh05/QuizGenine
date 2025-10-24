@@ -7,7 +7,7 @@ QuizGenie is an intelligent, full-stack application that automatically generates
 
 ### 🎥 Video Demonstration
 
-[![QuizGenie Video Demo](https://youtu.be/u3yZ1N0Izss)
+[![QuizGenie Video Demo](https://youtu.be/u3yZ1N0Izss?si=9pIpk7xcPepXUOu5)]
 
 
 ---
