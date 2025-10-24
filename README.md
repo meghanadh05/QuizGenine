@@ -1,16 +1,14 @@
-# 🧠 QuizGenie: AI-Powered Quiz Generator
+#  QuizGenie: AI-Powered Quiz Generator
 
 QuizGenie is an intelligent, full-stack application that automatically generates multiple-choice quizzes from your uploaded documents. It uses a Retrieval-Augmented Generation (RAG) pipeline to create accurate and contextually relevant questions, turning any set of notes into an interactive learning tool.
 
 ---
+# Web Link (Hosting soonn..)
 
 ### 🎥 Video Demonstration
 
-[![QuizGenie Video Demo](https://www.youtube.com/watch?v=your-video-id)
+[![QuizGenie Video Demo](https://youtu.be/u3yZ1N0Izss)
 
-> _**Note:** To make this work, you'll need to:_
-> 1. _Upload a thumbnail image (e.g., to Imgur) and replace the `https://your-image-host.com/video-thumbnail.png` link._
-> 2. _Upload your video to a platform like YouTube or Loom and replace the `https://www.youtube.com/watch?v=your-video-id` link._
 
 ---
 
@@ -56,8 +54,3 @@ Follow these instructions to run the project on your local machine.
 * **Python** (v3.9 or later)
 * An **OpenAI API Key**
 
-### **1. Clone the Repository**
-
-```bash
-git clone [https://github.com/your-username/QuizGenie.git](https://github.com/your-username/QuizGenie.git)
-cd QuizGenie
